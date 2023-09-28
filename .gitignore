@@ -89,3 +89,7 @@ local_settings.py
 db.sqlite3
 .vscode/
 media/
+cert.crt
+cert.key
+
+
