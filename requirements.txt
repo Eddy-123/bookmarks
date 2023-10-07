@@ -22,7 +22,7 @@ oauthlib==3.2.2
 opencv-python==4.8.1.78
 pangocairocffi==0.4.0
 pangocffi==0.8.0
-Pillow==10.0.1
+Pillow==9.5.0
 progressbar==2.5
 pycairo==1.25.0
 pycparser==2.21
