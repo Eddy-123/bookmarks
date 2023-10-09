@@ -186,3 +186,7 @@ THUMBNAIL_DEBUG = True
 INTERNAL_IPS = [
     '127.0.0.1',
 ]
+
+REDIS_HOST = os.getenv("REDIS_HOST")
+REDIS_PORT = os.getenv("REDIS_PORT")
+REDIS_DB = os.getenv("REDIS_DB")
