@@ -10,6 +10,7 @@ cryptography==38.0.4
 cssselect2==0.7.0
 defusedxml==0.8.0rc1
 Django==4.1.11
+django-debug-toolbar==3.6.0
 django-extensions==3.2.1.dev0
 easy-thumbnails==2.8.1
 idna==3.4
