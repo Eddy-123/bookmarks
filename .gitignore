@@ -91,5 +91,6 @@ db.sqlite3
 media/
 cert.crt
 cert.key
+.bookmarks/
 
 
