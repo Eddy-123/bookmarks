@@ -88,3 +88,9 @@ local_settings.py
 .env
 db.sqlite3
 .vscode/
+media/
+cert.crt
+cert.key
+.bookmarks/
+
+
